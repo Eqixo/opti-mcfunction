@@ -12,7 +12,7 @@ In this repository, a lot of references can be done about messages, threads or r
 
 ### Français
 - [Bases & introduction aux débutants](./docs/lang/fr-fr/basics.md)
-
+- **[En cours]** [Optimisation avancée](./docs/lang/fr-fr/advanced.md)
 
 ## Contribute to this repository
 
